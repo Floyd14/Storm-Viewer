@@ -12,6 +12,9 @@
 		65DE4C1520FF421400E807ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65DE4C1320FF421400E807ED /* Main.storyboard */; };
 		65DE4C1720FF421400E807ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65DE4C1620FF421400E807ED /* Assets.xcassets */; };
 		65DE4C1A20FF421400E807ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65DE4C1820FF421400E807ED /* LaunchScreen.storyboard */; };
+		65DE4C2A20FF476700E807ED /* Tramonto-696x522.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 65DE4C2720FF476700E807ED /* Tramonto-696x522.jpg */; };
+		65DE4C2B20FF476700E807ED /* 26dic16. Tramonto di Lorena Sanzone-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 65DE4C2820FF476700E807ED /* 26dic16. Tramonto di Lorena Sanzone-2.jpg */; };
+		65DE4C2C20FF476700E807ED /* nelli alfonso.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 65DE4C2920FF476700E807ED /* nelli alfonso.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		65DE4C1620FF421400E807ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65DE4C1920FF421400E807ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65DE4C1B20FF421400E807ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65DE4C2720FF476700E807ED /* Tramonto-696x522.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Tramonto-696x522.jpg"; sourceTree = "<group>"; };
+		65DE4C2820FF476700E807ED /* 26dic16. Tramonto di Lorena Sanzone-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "26dic16. Tramonto di Lorena Sanzone-2.jpg"; sourceTree = "<group>"; };
+		65DE4C2920FF476700E807ED /* nelli alfonso.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nelli alfonso.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				65DE4C1120FF421400E807ED /* ViewController.swift */,
 				65DE4C1320FF421400E807ED /* Main.storyboard */,
 				65DE4C1620FF421400E807ED /* Assets.xcassets */,
+				65DE4C2820FF476700E807ED /* 26dic16. Tramonto di Lorena Sanzone-2.jpg */,
+				65DE4C2920FF476700E807ED /* nelli alfonso.jpg */,
+				65DE4C2720FF476700E807ED /* Tramonto-696x522.jpg */,
 				65DE4C1820FF421400E807ED /* LaunchScreen.storyboard */,
 				65DE4C1B20FF421400E807ED /* Info.plist */,
 			);
@@ -123,8 +132,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65DE4C2C20FF476700E807ED /* nelli alfonso.jpg in Resources */,
 				65DE4C1A20FF421400E807ED /* LaunchScreen.storyboard in Resources */,
 				65DE4C1720FF421400E807ED /* Assets.xcassets in Resources */,
+				65DE4C2A20FF476700E807ED /* Tramonto-696x522.jpg in Resources */,
+				65DE4C2B20FF476700E807ED /* 26dic16. Tramonto di Lorena Sanzone-2.jpg in Resources */,
 				65DE4C1520FF421400E807ED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
